@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.topnav h1 {
+  float: left;
+  text-align: center;
+  color: orange;
+  text-decoration: none;
+}
+
+.topnav div {
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
